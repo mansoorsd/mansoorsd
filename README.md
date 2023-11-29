@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mansoor
-- 👀 I’m a Python and Data Engineer
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m a Data and AI engineer
+- 🌱 I’m currently learning on Gen AI
 - 💞️ I’m looking to collaborate on ML Projects/Competitions
 - 📫 How to reach me - mailto:bashasyed0511@gmail.com
 
